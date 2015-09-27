@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivty_Search">
+    <item
+        android:id="@+id/filter"
+        android:title="@string/app_name"
+        android:icon="@drawable/filter_main"
+        android:orderInCategory="100"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="ifRoom"
+        android:onClick="onFilterSelected"
+        />
+
+</menu>

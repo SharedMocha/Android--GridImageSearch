@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeicon"
+        android:title="@string/app_name"
+        android:icon="@drawable/image_home_master_icon"
+        android:orderInCategory="100"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/iconandtitle"
+        android:title="@string/app_name"
+        android:orderInCategory="200"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/filter"
+        android:title="@string/app_name"
+        android:icon="@drawable/filter_main"
+        android:orderInCategory="300"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="ifRoom"/>
+
+</menu>
