@@ -44,9 +44,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-http://i.imgur.com/4mJnPyy.gifv
 
-http://imgur.com/4mJnPyy
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="4mJnPyy"><a href="//imgur.com/4mJnPyy">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
